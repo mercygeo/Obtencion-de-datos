@@ -22,5 +22,5 @@ La actividad ha sido realizada de manera individual por Mercy Pinargote.
 Se ha creado un Tableau viz para la visualización y estudio de los datos. [Tableau Viz](https://public.tableau.com/profile/mercy.pinargote#!/vizhome/MuertesporHomicidiosyAccidentesVehicularesenEcuador2000-2016/AccidentesdetrnsitoenelEcuador2000-2016). 
 
 
-##Licencia
+## Licencia
 El contenido de este proyecto esta licencia bajo la Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International, y el código fuente usado para mostrar este contenido este licenciado bajo la MIT license.
